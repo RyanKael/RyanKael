@@ -23,3 +23,15 @@ Principais recursos:
 - integração contínua com GitHub Actions.
 
 [Ver repositório](https://github.com/RyanKael/stockflow)
+
+## Tecnologias
+
+- Python
+- Flask
+- SQLAlchemy
+- PostgreSQL
+- HTML
+- CSS
+- Bootstrap
+- Git
+- GitHub Actions
