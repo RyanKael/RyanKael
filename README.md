@@ -22,7 +22,7 @@ Principais recursos:
 - deploy com Railway;
 - integração contínua com GitHub Actions.
 
-[Ver repositório](https://github.com/RyanKael/stockflow)
+[Ver repositório](https://github.com/RyanKael/stockflow) | [Acessar aplicação](https://stockflow-production-75ac.up.railway.app)
 
 ## Tecnologias
 
